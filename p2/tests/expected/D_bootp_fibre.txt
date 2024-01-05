@@ -1,0 +1,15 @@
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 1 [BOOTREQUEST]
+Hardware Type (htype) = 18 [Fibre Channel]
+Hardware Address Length (hlen) = 3
+Hops (hops) = 0
+Transaction ID (xid) = 65536 (0x10000)
+Seconds (secs) = 0 Days, 9:06:08
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 0.0.0.0
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 080045

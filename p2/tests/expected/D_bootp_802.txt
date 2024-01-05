@@ -1,0 +1,15 @@
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 2 [BOOTREPLY]
+Hardware Type (htype) = 6 [IEEE 802 Networks]
+Hardware Address Length (hlen) = 6
+Hops (hops) = 0
+Transaction ID (xid) = 298 (0x12a)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 192.168.18.52
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = e0b9baa3e9ba

@@ -1,0 +1,10 @@
+# list of integration tests
+#  format: run_test <TAG> <ARGS>
+#    <TAG>      used as the root for all filenames (i.e., "expected/$TAG.txt")
+#    <ARGS>     command-line arguments to test
+
+run_test    B_x_1                   "-p -x 1"
+run_test    B_fibre                 "-p -t 18 -c 112233"
+run_test    B_802                   "-p -x 4096 -t 6 -c 08002B2ED85E" "-p -x 65000 -t 6"
+run_test    B_arc                   "-p -x 1 -t 7 -c 02" "-p -x 3 -t 7 -c c8" "-p -x 5 -t 7 -c 1fff"
+run_test    B_eleven                "-p -x 1 -t 7 -c 00" "-p -x 1 -t 7 -c 01" "-p -x 1 -t 7 -c 02" "-p -x 1 -t 7 -c 03" "-p -x 1 -t 7 -c 04" "-p -x 1 -t 7 -c 05" "-p -x 1 -t 7 -c 06" "-p -x 1 -t 7 -c 07" "-p -x 1 -t 7 -c 08" "-p -x 1 -t 7 -c 09" "-p -x 1 -t 7 -c 0a"

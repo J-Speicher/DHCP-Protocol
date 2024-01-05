@@ -1,0 +1,15 @@
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 2 [BOOTREPLY]
+Hardware Type (htype) = 15 [Frame Relay]
+Hardware Address Length (hlen) = 2
+Hops (hops) = 0
+Transaction ID (xid) = 305402420 (0x12341234)
+Seconds (secs) = 0 Days, 0:18:08
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 0.0.0.0
+Server IP Address (siaddr) = 192.168.18.52
+Relay IP Address (giaddr) = 192.168.18.53
+Client Ethernet Address (chaddr) = 4224

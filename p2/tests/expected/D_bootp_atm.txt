@@ -1,0 +1,15 @@
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 1 [BOOTREQUEST]
+Hardware Type (htype) = 19 [Asynchronous Transmission Mode (ATM)]
+Hardware Address Length (hlen) = 20
+Hops (hops) = 0
+Transaction ID (xid) = 69632 (0x11000)
+Seconds (secs) = 0 Days, 0:17:04
+Flags (flags) = 0
+Client IP Address (ciaddr) = 127.0.0.1
+Your IP Address (yiaddr) = 0.0.0.0
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 45070803450008000611229102e0b9baa4c2bb01

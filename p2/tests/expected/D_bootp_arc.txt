@@ -1,0 +1,15 @@
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 2 [BOOTREPLY]
+Hardware Type (htype) = 7 [ARCNET]
+Hardware Address Length (hlen) = 1
+Hops (hops) = 0
+Transaction ID (xid) = 268439585 (0x10001021)
+Seconds (secs) = 0 Days, 0:01:04
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 0.0.0.0
+Server IP Address (siaddr) = 192.168.1.1
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 1c

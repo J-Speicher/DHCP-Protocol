@@ -1,0 +1,93 @@
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 1 [BOOTREQUEST]
+Hardware Type (htype) = 19 [Asynchronous Transmission Mode (ATM)]
+Hardware Address Length (hlen) = 20
+Hops (hops) = 0
+Transaction ID (xid) = 42 (0x2a)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 0.0.0.0
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 0011223344556677889900112233445566778899
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP Discover
+++++++++++++++++
+CLIENT RECEIVED:
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 2 [BOOTREPLY]
+Hardware Type (htype) = 19 [Asynchronous Transmission Mode (ATM)]
+Hardware Address Length (hlen) = 20
+Hops (hops) = 0
+Transaction ID (xid) = 42 (0x2a)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 10.0.2.1
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 0011223344556677889900112233445566778899
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP Offer
+Request = 10.0.2.1
+IP Address Lease Time = 30 Days, 0:00:00
+Server Identifier = 10.0.2.0
+++++++++++++++++
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 1 [BOOTREQUEST]
+Hardware Type (htype) = 19 [Asynchronous Transmission Mode (ATM)]
+Hardware Address Length (hlen) = 20
+Hops (hops) = 0
+Transaction ID (xid) = 42 (0x2a)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 0.0.0.0
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 0011223344556677889900112233445566778899
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP Request
+Request = 10.0.2.1
+Server Identifier = 10.0.2.0
+++++++++++++++++
+CLIENT RECEIVED:
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 2 [BOOTREPLY]
+Hardware Type (htype) = 19 [Asynchronous Transmission Mode (ATM)]
+Hardware Address Length (hlen) = 20
+Hops (hops) = 0
+Transaction ID (xid) = 42 (0x2a)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 10.0.2.1
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 0011223344556677889900112233445566778899
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP ACK
+IP Address Lease Time = 30 Days, 0:00:00
+Server Identifier = 10.0.2.0
+++++++++++++++++

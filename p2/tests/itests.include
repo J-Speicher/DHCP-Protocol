@@ -1,0 +1,17 @@
+# list of integration tests
+#  format: run_test <TAG> <ARGS>
+#    <TAG>      used as the root for all filenames (i.e., "expected/$TAG.txt")
+#    <ARGS>     command-line arguments to test
+
+run_test    D_bootp_eth             "data/bootp-1-eth"
+run_test    D_bootp_802             "data/bootp-2-802"
+run_test    D_bootp_arc             "data/bootp-3-arc"
+run_test    D_bootp_frame           "data/bootp-4-frame"
+run_test    D_bootp_fibre           "data/bootp-5-fibre"
+run_test    D_dhcp_disc             "data/dhcp-1-discover"
+run_test    D_dhcp_offer            "data/dhcp-2-offer"
+run_test    D_dhcp_request          "data/dhcp-3-request"
+run_test    D_dhcp_decline          "data/dhcp-4-decline"
+run_test    D_dhcp_ack              "data/dhcp-5-ack"
+run_test    D_dhcp_nak              "data/dhcp-6-nak"
+run_test    D_dhcp_release          "data/dhcp-7-release"

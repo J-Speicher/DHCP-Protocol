@@ -1,0 +1,17 @@
+# list of integration tests
+#  format: run_test <TAG> <ARGS>
+#    <TAG>      used as the root for all filenames (i.e., "expected/$TAG.txt")
+#    <ARGS>     command-line arguments to test
+
+run_test    C_request               "-m 3"
+run_test    C_req_802               "-t 6"
+run_test    C_dis_arc_xid           "-t 7 -x 5000 -m 1"
+run_test    C_dis_eth_addr          "-t 1 -c 08002b2ed85e -m 1"
+run_test    C_req_arc_addr          "-t 7 -c 2e"
+run_test    C_req_frame             "-t 15 -x 1000000 -c 2b2ed85e0800 -s 10.50.23.2 -r 10.50.12.45"
+run_test    C_dis_fibre             "-t 18 -c 2ed85e08002b -m 1"
+run_test    C_req_fibre             "-t 18 -c 123456 -x 123456789"
+run_test    C_decline               "-m 4 -s 10.0.1.1 -r 10.0.1.25"
+run_test    C_release               "-m 7 -s 10.1.2.3"
+run_test    C_udp                   "-p -x 0"
+run_test    C_udp_req               "-p -x 0 -m 3 -s 10.1.2.3 -r 10.1.2.42"

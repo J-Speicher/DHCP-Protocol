@@ -1,0 +1,190 @@
+++++++++++++++++
+SERVER RECEIVED:
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 1 [BOOTREQUEST]
+Hardware Type (htype) = 6 [IEEE 802 Networks]
+Hardware Address Length (hlen) = 6
+Hops (hops) = 0
+Transaction ID (xid) = 4096 (0x1000)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 0.0.0.0
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 08002b2ed85e
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP Discover
+++++++++++++++++
+SERVER SENDING:
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 2 [BOOTREPLY]
+Hardware Type (htype) = 6 [IEEE 802 Networks]
+Hardware Address Length (hlen) = 6
+Hops (hops) = 0
+Transaction ID (xid) = 4096 (0x1000)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 10.0.2.1
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 08002b2ed85e
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP Offer
+Request = 10.0.2.1
+IP Address Lease Time = 30 Days, 0:00:00
+Server Identifier = 10.0.2.0
+++++++++++++++++
+SERVER RECEIVED:
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 1 [BOOTREQUEST]
+Hardware Type (htype) = 6 [IEEE 802 Networks]
+Hardware Address Length (hlen) = 6
+Hops (hops) = 0
+Transaction ID (xid) = 4096 (0x1000)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 0.0.0.0
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 08002b2ed85e
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP Request
+Request = 10.0.2.1
+Server Identifier = 10.0.2.0
+++++++++++++++++
+SERVER SENDING:
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 2 [BOOTREPLY]
+Hardware Type (htype) = 6 [IEEE 802 Networks]
+Hardware Address Length (hlen) = 6
+Hops (hops) = 0
+Transaction ID (xid) = 4096 (0x1000)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 10.0.2.1
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 08002b2ed85e
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP ACK
+IP Address Lease Time = 30 Days, 0:00:00
+Server Identifier = 10.0.2.0
+++++++++++++++++
+SERVER RECEIVED:
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 1 [BOOTREQUEST]
+Hardware Type (htype) = 6 [IEEE 802 Networks]
+Hardware Address Length (hlen) = 6
+Hops (hops) = 0
+Transaction ID (xid) = 65000 (0xfde8)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 0.0.0.0
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 010203040506
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP Discover
+++++++++++++++++
+SERVER SENDING:
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 2 [BOOTREPLY]
+Hardware Type (htype) = 6 [IEEE 802 Networks]
+Hardware Address Length (hlen) = 6
+Hops (hops) = 0
+Transaction ID (xid) = 65000 (0xfde8)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 10.0.2.2
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 010203040506
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP Offer
+Request = 10.0.2.2
+IP Address Lease Time = 30 Days, 0:00:00
+Server Identifier = 10.0.2.0
+++++++++++++++++
+SERVER RECEIVED:
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 1 [BOOTREQUEST]
+Hardware Type (htype) = 6 [IEEE 802 Networks]
+Hardware Address Length (hlen) = 6
+Hops (hops) = 0
+Transaction ID (xid) = 65000 (0xfde8)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 0.0.0.0
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 010203040506
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP Request
+Request = 10.0.2.2
+Server Identifier = 10.0.2.0
+++++++++++++++++
+SERVER SENDING:
+------------------------------------------------------
+BOOTP Options
+------------------------------------------------------
+Op Code (op) = 2 [BOOTREPLY]
+Hardware Type (htype) = 6 [IEEE 802 Networks]
+Hardware Address Length (hlen) = 6
+Hops (hops) = 0
+Transaction ID (xid) = 65000 (0xfde8)
+Seconds (secs) = 0 Days, 0:00:00
+Flags (flags) = 0
+Client IP Address (ciaddr) = 0.0.0.0
+Your IP Address (yiaddr) = 10.0.2.2
+Server IP Address (siaddr) = 0.0.0.0
+Relay IP Address (giaddr) = 0.0.0.0
+Client Ethernet Address (chaddr) = 010203040506
+------------------------------------------------------
+DHCP Options
+------------------------------------------------------
+Magic Cookie = [OK]
+Message Type = DHCP ACK
+IP Address Lease Time = 30 Days, 0:00:00
+Server Identifier = 10.0.2.0
